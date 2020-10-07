@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "author": "J.K. Rowling",
+        "text": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text over the 1950's, when an unknown printers took a gallery",
+        "avator": "https://picsum.photos/200",
+        "read": false,
+        "dateTime": "10/04/2020 11:00 AM"
+    },
+    {
+        "id": 2,
+        "author": "Daniel Radcliffe",
+        "text": "There are many variantions of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "avator": "https://picsum.photos/200",
+        "read": false,
+        "dateTime": "10/04/2020 12:00 PM"
+    },
+    {
+        "id": 3,
+        "author": "Mickey Davis",
+        "text": "Lorem ipsum dolor sit amet, consectuer adipsing elit, set do eiusmod tempor incididunt ut labore et dolore magna aliqua, Ut enim ad minin veniam, quis nostrud exerciation ullamo laboris nisi ut aliquip ex ea commodo consequat.",
+        "avator": "https://picsum.photos/200",
+        "read": false,
+        "dateTime": "10/04/2020 01:00 PM"
+    },
+    {
+        "id": 4,
+        "author": "Edwerd John",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim",
+        "avator": "https://picsum.photos/200",
+        "read": false,
+        "dateTime": "10/04/2020 02:00 PM"
+    },
+    {
+        "id": 5,
+        "author": "Adam Davide",
+        "text": "typesetting industry. Lorem Ipsum has been the industry's standard dummy text over the 1950's, when an unknown printers took a gallery",
+        "avator": "https://picsum.photos/200",
+        "read": false,
+        "dateTime": "10/04/2020 02:20 PM"
+    },
+    {
+        "id": 6,
+        "author": "Nikki Peter",
+        "text": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean",
+        "avator": "https://picsum.photos/200",
+        "read": false,
+        "dateTime": "10/04/2020 02:40 PM"
+    }
+]
